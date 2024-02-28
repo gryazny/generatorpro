@@ -1,4 +1,4 @@
-/* Frame 1 */
+
 body {
   margin: 0px;
 }
@@ -11,7 +11,7 @@ height: 919px;
 background: radial-gradient(50% 50% at 50% 50%, #FFE2FE 43%, #D5B5FF 100%);
 }
 
-/* Rectangle 1 */
+
 #Rectangle1 {
 position: absolute;
 width: 1903px;
@@ -22,7 +22,6 @@ top: 0px;
 background: #BE8BFF;
 }
 
-/* Rectangle 4 */
 #Rectangle2 {
 position: absolute;
 width: 579px;
@@ -35,7 +34,7 @@ border: 15px solid #B082EC;
 border-radius: 20px;
 }
 
-/* Rectangle 2 */
+
 #Rectangle3 {
 position: absolute;
 width: 498px;
@@ -47,7 +46,7 @@ background: #7B5AA5;
 border-radius: 20px;
 }
 
-/* Rectangle 3 */
+
 #Rectangle4 {
 box-sizing: border-box;
 
@@ -62,7 +61,7 @@ border: 7px solid #7B5AA5;
 border-radius: 20px;
 }
 
-/* zigapro */
+
 #zig {
 position: absolute;
 width: 245px;
@@ -93,7 +92,7 @@ animation-fill-mode: forwards;
     transform: scale(1);
   }
 }
-/* сгенерировать */
+
 #gen {
 position: absolute;
 width: 498px;
@@ -114,7 +113,7 @@ color: #FFE2FE;
 }
 
 
-/* ВАШ НИКНЕЙМ */
+
 #www {
 position: absolute;
 left: 666px;
@@ -142,7 +141,7 @@ animation-duration: 200ms;
   }
 }
 
-/* генератор ников онлайн */
+
 #on {
 position: absolute;
 width: 341px;
